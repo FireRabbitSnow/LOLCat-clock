@@ -12,7 +12,7 @@ body{
 }
 
 body{
-    font: 14/26px 'Bungee', Helvetica, Arial, sans-seri;
+    font: 14/26px 'Bungee', Helvetica, Arial, sans-serif;
     color:#222;
     margin:0px;
     padding:0px;
@@ -47,7 +47,7 @@ blockquote{
     font: 2em/1em 'Open Sans', sans-serif;
     -webkit-text-stroke: 1px black;
     text-shadow: 2px 2px #000;
-    margin -80px 0 100px 0;
+    margin: -80px 0 100px 0;
     color:#fff;
 }
 
